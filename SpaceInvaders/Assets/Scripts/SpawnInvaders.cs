@@ -18,6 +18,8 @@ public class SpawnInvaders : MonoBehaviour
 
     [SerializeField]
     float xMin = -3f;
+
+    [SerializeField]
     float yMin =  0f;
     
     void Awake()
